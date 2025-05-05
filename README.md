@@ -44,4 +44,4 @@ Você pode editar os estilos no `style.css` e modificar a lógica da lista no `s
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar.
 
-Feito com 💻 por [Igor Parizi](https://github.com/pariziigor)
+Feito por [Igor Parizi](https://github.com/pariziigor)

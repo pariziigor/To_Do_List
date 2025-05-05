@@ -3,10 +3,6 @@
 
 Uma aplicação web simples de lista de tarefas (to-do list), feita com **HTML, CSS e JavaScript puro**, que permite adicionar, marcar como concluídas e remover tarefas. Os dados são salvos automaticamente no **localStorage** do navegador.
 
-## 📸 Prévia
-
-![Screenshot da To-Do List](screenshot.png) <!-- opcional, substitua se tiver uma imagem -->
-
 ## 🚀 Funcionalidades
 
 - Adicionar novas tarefas

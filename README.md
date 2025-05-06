@@ -21,11 +21,11 @@ Uma aplicação web simples de lista de tarefas (to-do list), feita com **HTML, 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/pariziigor/todo-list.git
+   git clone https://github.com/pariziigor/To_Do_List.git
    ```
 2. Acesse a pasta:
    ```bash
-   cd todo-list
+   cd To_Do_List
    ```
 3. Abra o arquivo `index.html` no navegador:
    ```bash
@@ -35,9 +35,5 @@ Uma aplicação web simples de lista de tarefas (to-do list), feita com **HTML, 
 ## ✨ Personalização
 
 Você pode editar os estilos no `style.css` e modificar a lógica da lista no `script.js` para adaptar à sua necessidade.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar.
 
 Feito por [Igor Parizi](https://github.com/pariziigor)
